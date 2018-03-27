@@ -1,0 +1,7 @@
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+#searchIcon {
+  position: absolute;
+  padding: 3px 0px 0px 0px;
+  pointer-events: none;
+}
